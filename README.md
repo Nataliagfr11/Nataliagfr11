@@ -2,7 +2,6 @@
 
 I am a Master’s student (M2) in **Data and Artificial Intelligence** at ESILV, pursuing a dual engineering and management degree with EMLV.  
 My studies are strongly oriented towards **data analytics, machine learning, and artificial intelligence**, with practical experience gained through academic and personal projects.  
-
 Alongside this technical foundation, I have also explored **UX Design**, allowing me to enrich my projects with user-centric perspectives and creative approaches.  
 Driven by curiosity and adaptability, I am eager to apply my skills to impactful real-world challenges.  
 
@@ -21,7 +20,7 @@ Driven by curiosity and adaptability, I am eager to apply my skills to impactful
 
 ---
 
-## 📫 Get in Touch  
+## 🤝 Get in Touch  
 - [LinkedIn](https://www.linkedin.com/in/natalia-g%C3%A9rard-a5a383273/)  
 - ✉️ Email: **ngerardfr@gmail.com**  
 
