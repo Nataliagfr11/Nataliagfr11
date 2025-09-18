@@ -1,8 +1,5 @@
 ## 👋 Hi, I’m Natalia Gérard 
 
-<!--
-**Nataliagfr11/Nataliagfr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a Master’s student (M2) in **Data and Artificial Intelligence** at ESILV, pursuing a dual engineering and management degree with EMLV.  
 My studies are strongly oriented towards **data analytics, machine learning, and artificial intelligence**, with practical experience gained through academic and personal projects.  
 
